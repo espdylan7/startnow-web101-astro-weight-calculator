@@ -1,0 +1,58 @@
+select {
+    display: block;
+ 
+}
+
+div{
+    font-weight: bold;
+    padding: 0px;
+    
+}
+
+    button {
+    width: 150px;
+    border-radius: 6px;
+    color: white;
+    background-color: rgb(0, 29, 247);
+}
+
+#form {
+    background-color: white;
+    border-style: groove;
+}
+
+p {
+    border-style: groove;
+    background-color: gray;
+    height: 40px;
+}
+
+body {
+    background-image: url("http://guysfromandromeda.com/wp-content/uploads/2012/07/Galaxy-background.jpg")
+}
+
+#Weight {
+    border-style: groove;
+    background-color: white;
+    height: 40px;
+}
+
+#Planet {
+    border-style: groove;
+    background-color: white;
+    height: 40px;
+}
+
+#random {
+    border-style: groove;
+    background-color: white;
+    height: 40px;
+}
+
+#planets {
+    border-style: groove;
+}
+
+
+
+
